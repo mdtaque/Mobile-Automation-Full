@@ -1,0 +1,14 @@
+ControlsPage/Controls.class
+SegmentsPage/Segments.class
+ButtonsPage/Buttons.class
+TransitionsPage/Transitions.class
+navigate/NavigateUi.class
+SearchBarPage/SearchBar.class
+ImgesPage/Images.class
+PickersPage/Picker.class
+AlertsPage/Alerts.class
+ToolbarPage/Toolbar.class
+TextFieldsPage/TextFields.class
+WebPage/Web.class
+UiCatalogPage/UiCatalog.class
+TextViewPage/TextView.class

@@ -1,0 +1,5 @@
+reporting/ApplicationLog.class
+reporting/ExtentTestManager.class
+reporting/TestLogger.class
+common/Base.class
+reporting/ExtentManager.class
